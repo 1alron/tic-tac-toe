@@ -1,0 +1,12 @@
+.square {
+  display: flex;
+  width: 70px;
+  height: 70px;
+  border: 2px solid gray;
+  cursor: pointer;
+  background: white;
+  justify-content: center;
+  align-items: center;
+  font-size: 55px;
+  font-family: 'fira code', serif;
+}
